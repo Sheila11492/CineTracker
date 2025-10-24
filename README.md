@@ -12,7 +12,7 @@ Su objetivo es permitir a los usuarios **gestionar, organizar y analizar** su co
 - 📌 Estados: *Visto*, *Viendo*, *Pendiente*  
 - ⭐ Marcar títulos como favoritos  
 - 📊 Visualización de estadísticas mediante gráficos (MPAndroidChart)  
-- 🔎 Búsqueda por título y filtrado por estado o género
+  
 - ## 🛠️ **Tecnologías utilizadas**
 
 - **Lenguaje:** Java  
