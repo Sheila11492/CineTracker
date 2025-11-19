@@ -70,7 +70,7 @@ public class EstadisticasActivity extends AppCompatActivity {
         entries.add(new PieEntry(series, "Series"));
 
         PieDataSet dataSet = new PieDataSet(entries, "Catálogo por tipo");
-        // Colores del proyecto (sin hardcodear estilos de MPAndroidChart)
+        // Colores del proyecto (estilos de MPAndroidChart)
         ArrayList<Integer> colors = new ArrayList<>();
         colors.add(getResources().getColor(R.color.teal_200));
         colors.add(getResources().getColor(R.color.purple_200));

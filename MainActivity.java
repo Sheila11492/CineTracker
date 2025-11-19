@@ -143,7 +143,6 @@ public class MainActivity extends AppCompatActivity {
                 .setPositiveButton("Guardar", (dialog, which) -> {
                     String titulo   = safeText(etTitulo);
                     String tipo     = (spTipo == null) ? "Película" : String.valueOf(spTipo.getSelectedItem());
-                    // Género: preferimos spinnerGenero; si no existe usamos cadena vacía
                     String genero;
                     if (spinnerGenero != null && spinnerGenero.getSelectedItem() != null) {
                         genero = String.valueOf(spinnerGenero.getSelectedItem());
