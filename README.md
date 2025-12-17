@@ -34,7 +34,7 @@ series y películas de forma sencilla e intuitiva.
 ---
 
 ## 📷 Capturas de pantalla
-
+(screenshots/pantalla de inicio.png)
 
 
 ---
