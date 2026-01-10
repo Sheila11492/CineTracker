@@ -56,4 +56,4 @@ aplicando conceptos de:
 
 ## ✍️ Autora
 **Sheila**  
-Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+Proyecto académico realizado durante mis estudios en DAM.
