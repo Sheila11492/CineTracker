@@ -35,12 +35,12 @@ series y películas de forma sencilla e intuitiva.
 
 ## 📷 Capturas de pantalla
 <img width="200" height="400" alt="pantalla de inicio" src="https://github.com/user-attachments/assets/684d331b-4105-48b4-b7de-c99362eb192d" />
-<img width="274" height="605" alt="pantalla de registro " src="https://github.com/user-attachments/assets/b09a4f3a-c9dd-482c-b987-6428496352cf" />
-<img width="274" height="605" alt="pantalla de contenido" src="https://github.com/user-attachments/assets/fcb6da66-8e5f-4853-b27c-4e95f2cdd023" />
-<img width="274" height="605" alt="añadir película " src="https://github.com/user-attachments/assets/09ea4e07-1913-4297-98d9-64cbc1971361" />
-<img width="274" height="605" alt="añadir serie " src="https://github.com/user-attachments/assets/32148f4b-7951-4604-a3ec-a48604485191" />
-<img width="274" height="605" alt="pantalla de favoritos " src="https://github.com/user-attachments/assets/b360cbdb-1d1b-4afe-9177-a8e8d2f628bc" />
-<img width="274" height="605" alt="pantalla de estadisticas " src="https://github.com/user-attachments/assets/04ea601e-3484-432d-b8c6-5fe8b05ff760" />
+<img width="200" height="400" alt="pantalla de registro " src="https://github.com/user-attachments/assets/b09a4f3a-c9dd-482c-b987-6428496352cf" />
+<img width="200" height="400" alt="pantalla de contenido" src="https://github.com/user-attachments/assets/fcb6da66-8e5f-4853-b27c-4e95f2cdd023" />
+<img width="200" height="400" alt="añadir película " src="https://github.com/user-attachments/assets/09ea4e07-1913-4297-98d9-64cbc1971361" />
+<img width="200" height="400" alt="añadir serie " src="https://github.com/user-attachments/assets/32148f4b-7951-4604-a3ec-a48604485191" />
+<img width="200" height="400" alt="pantalla de favoritos " src="https://github.com/user-attachments/assets/b360cbdb-1d1b-4afe-9177-a8e8d2f628bc" />
+<img width="200" height="400" alt="pantalla de estadisticas " src="https://github.com/user-attachments/assets/04ea601e-3484-432d-b8c6-5fe8b05ff760" />
 
 ---
 
