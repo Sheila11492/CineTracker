@@ -34,7 +34,7 @@ series y películas de forma sencilla e intuitiva.
 ---
 
 ## 📷 Capturas de pantalla
-<img width="274" height="605" alt="pantalla de inicio" src="https://github.com/user-attachments/assets/684d331b-4105-48b4-b7de-c99362eb192d" />
+<img width="200" height="400" alt="pantalla de inicio" src="https://github.com/user-attachments/assets/684d331b-4105-48b4-b7de-c99362eb192d" />
 <img width="274" height="605" alt="pantalla de registro " src="https://github.com/user-attachments/assets/b09a4f3a-c9dd-482c-b987-6428496352cf" />
 <img width="274" height="605" alt="pantalla de contenido" src="https://github.com/user-attachments/assets/fcb6da66-8e5f-4853-b27c-4e95f2cdd023" />
 <img width="274" height="605" alt="añadir película " src="https://github.com/user-attachments/assets/09ea4e07-1913-4297-98d9-64cbc1971361" />
